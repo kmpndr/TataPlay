@@ -160,7 +160,7 @@ start()
     dpkg -s $package > /dev/null 2>&1 || initiate_setup;
     done
     clear
-    tput setaf 41; curl -s 'https://pastebin.com/raw/N3TprJxp' || { tput setaf 9; echo " " && echo "This script needs active Internet Connection, Please Check and try again."; exit 1; }
+    tput setaf 41; curl -s 'https://pastebin.com/raw/utbrxe8V' || { tput setaf 9; echo " " && echo "This script needs active Internet Connection, Please Check and try again."; exit 1; }
     info;
     python='python3.9'
     take_vars;
@@ -172,7 +172,7 @@ start()
     dpkg -s $package > /dev/null 2>&1 || initiate_setup;
     done
     clear
-    tput setaf 41; curl -s 'https://pastebin.com/raw/RHe4YyY2' || { tput setaf 9; echo " " && echo "This script needs active Internet Connection, Please Check and try again."; exit 1; }
+    tput setaf 41; curl -s 'https://pastebin.com/raw/JUNE3y5g' || { tput setaf 9; echo " " && echo "This script needs active Internet Connection, Please Check and try again."; exit 1; }
     info;
     python='python3'
     take_vars;
